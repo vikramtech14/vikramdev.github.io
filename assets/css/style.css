@@ -449,6 +449,15 @@ body, html {
     transition: color 0.3s ease;
 }
 
+.slick-prev2 i,
+.slick-next2 i {
+    margin-top: 130px;
+    padding: 10px;
+    font-size: 30px;
+    color: rgb(44, 70, 215);
+    transition: color 0.3s ease;
+}
+
 /* Change icon color when hovered */
 .slick-prev:hover i,
 .slick-next:hover i {
