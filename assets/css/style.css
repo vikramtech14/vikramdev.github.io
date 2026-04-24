@@ -442,7 +442,7 @@ body, html {
 
 .slick-prev i,
 .slick-next i {
-    margin-top: 128px;
+    margin-top: 30px;
     padding: 10px;
     font-size: 30px;
     color: rgb(44, 70, 215);
